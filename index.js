@@ -7,12 +7,12 @@ const generateReadMe = ({ title, description, installation, usage, license, cont
   # Description
   ${description} 
   # Table of Contents
-  installation
-  ussage
-  license
-  contributing
-  tests
-  questions
+  [Installation](#Installation)<br />
+  [Usage](#Usage)<br />
+  [License](#License)<br />
+  [Contributing](#Contributing)<br />
+  [Tests](#Tests)<br />
+  [Questions](#Questions)<br />
   # Installation
   ${installation} 
   # Usage

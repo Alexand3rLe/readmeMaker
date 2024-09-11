@@ -1,22 +1,22 @@
 # Read Me Maker
   # Description
-  Generates a readme file through user inputs 
+  Generates a readme.md file through user input. 
   # Table of Contents
-  installation
-  ussage
-  license
-  contributing
-  tests
-  questions
+  [Installation](#Installation)<br />
+  [Usage](#Usage)<br />
+  [License](#License)<br />
+  [Contributing](#Contributing)<br />
+  [Tests](#Tests)<br />
+  [Questions](#Questions)<br />
   # Installation
-  npm -i inquirer  
+  use npm -i to install inquirer  
   # Usage
-  to generate a readme.md
+  Generating a file 
   #License
   MIT
   # Contributing 
-  na 
+  N/A 
   # Tests 
-  n/a 
+  N/A 
   # Questions
-  xanleyva@gmail.com
+  Contact me @ alexander.w.leyva@gmail.com or open up a new issue.
